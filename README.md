@@ -1,1 +1,1 @@
-# demorepo
+# calculator-template
